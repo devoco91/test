@@ -1,0 +1,120 @@
+.mainspace{
+    /* background-image: url(./w-img/Rectangle\ 1125.png); */
+    height: 100vh;
+    background-size: cover;
+    background-position: left;
+    display: flex;
+   }
+   
+   .banner1{
+    width: 100%;
+    /* background-image: url(./w-img/Rectangle\ 1125.png); */
+    background-size: cover;
+    background-position: right;
+   
+   }
+   .logo-lg{
+       /* border: 1px solid black; */
+   margin: 30px;
+   height: 50px;
+   }
+   .poss{
+      width: 100%;
+   
+   }
+   .login-1{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+    height: 80%;
+   
+   }
+   
+   .log_case{
+    /* border: 1px solid black; */
+   }
+   
+   .log-ctnt{
+    /* border: 1px solid black; */
+    margin: 50px 15px;
+   }
+   
+   .log-ctnt h1{
+    color: #022554;
+    font-weight: bolder;
+    font-size: 24px;
+   }
+   
+   .log-ctnt p{
+    color: #939393;
+   }
+   
+   .lg-form{
+    margin: 50px 0px;
+    padding: 20px 0px;
+    /* border: 1px solid black; */
+   }
+   
+   .mail-log{
+   /* border: 1px solid black; */
+   padding: 15px;
+   width: 400px;
+   border-radius: 10px;
+   margin: 15px;
+   border: 1px solid #004AAD45;
+   background-color: #F5FAFF;
+   display: flex;
+   align-items: center;
+   }
+   .pass-log{
+   /* border: 1px solid black; */
+   padding: 15px;
+   width: 400px;
+   border-radius: 10px;
+   margin: 15px;
+   border: 1px solid #004AAD45;
+   background-color: #F5FAFF;
+   display: flex;
+   align-items: center;
+   }
+   
+   .mail-log input[type= email]{
+   border: none;
+   outline: none;
+   width: 350px;
+   font-size: 15px;
+   background-color: #F5FAFF;
+   /* color: #004aad; */
+   
+   }
+   .pass-log input[type= password]{
+   border: none;
+   outline: none;
+   width: 100%;
+   font-size: 15px;
+   background-color: #F5FAFF;
+   }
+   .forget{
+    /* border: 1px solid black; */
+    margin: 15px;
+    text-align: right;
+   }
+   .forget a{
+   color: #00C31F;
+   text-decoration: none;
+   }
+   
+   .login-btn{
+   width: 400px;
+   padding: 15px;
+   background-color: #004aad;
+   border: none;
+   outline: none;
+   color: white;
+   font-weight: bold;
+   /* margin: 50px; */
+   border-radius: 10px; 
+   margin: 20px 20px;
+   }
